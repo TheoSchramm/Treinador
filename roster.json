@@ -1,0 +1,562 @@
+{
+    "1": {
+        "nome": "Stephen Curry",
+        "time": "Golden State Warriors",
+        "camisa": "30",
+        "url": "https://i.imgur.com/y4xBrjM.png",
+        "gerente": "sem_gerente"
+    },
+    "2": {
+        "nome": "Klay Thompson",
+        "time": "Golden State Warriors",
+        "camisa": "11",
+        "url": "https://i.imgur.com/VLtkFO3.png",
+        "gerente": "sem_gerente"
+    },
+    "3": {
+        "nome": "Jordan Poole",
+        "time": "Golden State Warriors",
+        "camisa": "3",
+        "url": "https://i.imgur.com/zXEiJb9.png",
+        "gerente": "sem_gerente"
+    },
+    "4": {
+        "nome": "Draymond Green",
+        "time": "Golden State Warriors",
+        "camisa": "23",
+        "url": "https://i.imgur.com/G8H8eDf.png",
+        "gerente": "sem_gerente"
+    },
+    "5": {
+        "nome": "Jonathan Kuminga",
+        "time": "Golden State Warriors",
+        "camisa": "0",
+        "url": "https://i.imgur.com/BI7nv7g.png",
+        "gerente": "sem_gerente"
+    },
+    "6": {
+        "nome": "Desmond Bane",
+        "time": "Memphis Grizzlies",
+        "camisa": "22",
+        "url": "https://i.imgur.com/zuMenfY.png",
+        "gerente": "sem_gerente"
+    },
+    "7": {
+        "nome": "Jaren Jackson Jr",
+        "time": "Memphis Grizzlies",
+        "camisa": "13",
+        "url": "https://i.imgur.com/9Gvb4EI.png",
+        "gerente": "sem_gerente"
+    },
+    "8": {
+        "nome": "Ja Morant",
+        "time": "Memphis Grizzlies",
+        "camisa": "12",
+        "url": "https://i.imgur.com/UC05v3K.png",
+        "gerente": "sem_gerente"
+    },
+    "9": {
+        "nome": "Dillon Brooks",
+        "time": "Memphis Grizzlies",
+        "camisa": "24",
+        "url": "https://i.imgur.com/w2GkPDh.png",
+        "gerente": "sem_gerente"
+    },
+    "10": {
+        "nome": "Tyus Jones",
+        "time": "Memphis Grizzlies",
+        "camisa": "21",
+        "url": "https://i.imgur.com/bU2svlw.png",
+        "gerente": "sem_gerente"
+    },
+    "11": {
+        "nome": "LeBron James",
+        "time": "Los Angeles Lakers",
+        "camisa": "6",
+        "url": "https://i.imgur.com/CWkuivv.png",
+        "gerente": "sem_gerente"
+    },
+    "12": {
+        "nome": "Carmelo Anthony",
+        "time": "Los Angeles Lakers",
+        "camisa": "7",
+        "url": "https://i.imgur.com/IhtLtHg.png",
+        "gerente": "sem_gerente"
+    },
+    "13": {
+        "nome": "Russell Westbrook",
+        "time": "Los Angeles Lakers",
+        "camisa": "0",
+        "url": "https://i.imgur.com/7OCxPkv.png",
+        "gerente": "sem_gerente"
+    },
+    "14": {
+        "nome": "Anthony Davis",
+        "time": "Los Angeles Lakers",
+        "camisa": "3",
+        "url": "https://i.imgur.com/vRZ4qBq.png",
+        "gerente": "sem_gerente"
+    },
+    "15": {
+        "nome": "Dwight Howard",
+        "time": "Los Angeles Lakers",
+        "camisa": "39",
+        "url": "https://i.imgur.com/YHiPwzF.png",
+        "gerente": "sem_gerente"
+    },
+    "16": {
+        "nome": "Giannis Antetokounmpo",
+        "time": "Milwaukee Bucks",
+        "camisa": "34",
+        "url": "https://i.imgur.com/eIoYyEA.png",
+        "gerente": "sem_gerente"
+    },
+    "17": {
+        "nome": "Jrue Holiday",
+        "time": "Milwaukee Bucks",
+        "camisa": "21",
+        "url": "https://i.imgur.com/CxAS4Zh.png",
+        "gerente": "sem_gerente"
+    },
+    "18": {
+        "nome": "Bobby Portis",
+        "time": "Milwaukee Bucks",
+        "camisa": "9",
+        "url": "https://i.imgur.com/0MAHyBy.png",
+        "gerente": "sem_gerente"
+    },
+    "19": {
+        "nome": "Brook Lopez",
+        "time": "Milwaukee Bucks",
+        "camisa": "11",
+        "url": "https://i.imgur.com/Rl2P9Qi.png",
+        "gerente": "sem_gerente"
+    },
+    "20": {
+        "nome": "Khris Middleton",
+        "time": "Milwaukee Bucks",
+        "camisa": "22",
+        "url": "https://i.imgur.com/e1FfOcz.png",
+        "gerente": "sem_gerente"
+    },
+    "21": {
+        "nome": "Jimmy Butler",
+        "time": "Miami Heat",
+        "camisa": "22",
+        "url": "https://i.imgur.com/woLkSFG.png",
+        "gerente": "sem_gerente"
+    },
+    "22": {
+        "nome": "Bam Adebayo",
+        "time": "Miami Heat",
+        "camisa": "13",
+        "url": "https://i.imgur.com/3uFaIVR.png",
+        "gerente": "sem_gerente"
+    },
+    "23": {
+        "nome": "P. J. Tucker",
+        "time": "Miami Heat",
+        "camisa": "17",
+        "url": "https://i.imgur.com/42YIfPB.png",
+        "gerente": "sem_gerente"
+    },
+    "24": {
+        "nome": "Kyle Lowry",
+        "time": "Miami Heat",
+        "camisa": "7",
+        "url": "https://i.imgur.com/0lIEtFo.png",
+        "gerente": "sem_gerente"
+    },
+    "25": {
+        "nome": "Max Strus",
+        "time": "Miami Heat",
+        "camisa": "31",
+        "url": "https://i.imgur.com/RPyHxrt.png",
+        "gerente": "sem_gerente"
+    },
+    "26": {
+        "nome": "OG Anunoby",
+        "time": "Toronto Raptors",
+        "camisa": "3",
+        "url": "https://i.imgur.com/1luNV9J.png",
+        "gerente": "sem_gerente"
+    },
+    "27": {
+        "nome": "Scottie Barnes",
+        "time": "Toronto Raptors",
+        "camisa": "4",
+        "url": "https://i.imgur.com/grQsoS1.png",
+        "gerente": "sem_gerente"
+    },
+    "28": {
+        "nome": "Pascal Siakam",
+        "time": "Toronto Raptors",
+        "camisa": "43",
+        "url": "https://i.imgur.com/oWt00rr.png",
+        "gerente": "sem_gerente"
+    },
+    "29": {
+        "nome": "Fred VanVleet",
+        "time": "Toronto Raptors",
+        "camisa": "23",
+        "url": "https://i.imgur.com/jnvWyQi.png",
+        "gerente": "sem_gerente"
+    },
+    "30": {
+        "nome": "Gary Trent Jr",
+        "time": "Toronto Raptors",
+        "camisa": "33",
+        "url": "https://i.imgur.com/ZKOMm0z.png",
+        "gerente": "sem_gerente"
+    },
+    "31": {
+        "nome": "Coby White",
+        "time": "Chicago Bulls",
+        "camisa": "0",
+        "url": "https://i.imgur.com/8FsqtpH.png",
+        "gerente": "sem_gerente"
+    },
+    "32": {
+        "nome": "Zach LaVine",
+        "time": "Chicago Bulls",
+        "camisa": "8",
+        "url": "https://i.imgur.com/V3nAiKH.png",
+        "gerente": "sem_gerente"
+    },
+    "33": {
+        "nome": "DeMar DeRozan",
+        "time": "Chicago Bulls",
+        "camisa": "11",
+        "url": "https://i.imgur.com/dGVD4Y1.png",
+        "gerente": "sem_gerente"
+    },
+    "34": {
+        "nome": "Lonzo Anderson Ball",
+        "time": "Chicago Bulls",
+        "camisa": "2",
+        "url": "https://i.imgur.com/xHg845G.png",
+        "gerente": "sem_gerente"
+    },
+    "35": {
+        "nome": "Tristan Thompson",
+        "time": "Chicago Bulls",
+        "camisa": "3",
+        "url": "https://i.imgur.com/2HuHLhi.png",
+        "gerente": "sem_gerente"
+    },
+    "36": {
+        "nome": "Jayson Tatum",
+        "time": "Boston Celtics",
+        "camisa": "0",
+        "url": "https://i.imgur.com/uwEjjoj.png",
+        "gerente": "sem_gerente"
+    },
+    "37": {
+        "nome": "Robert Williams ",
+        "time": "Boston Celtics",
+        "camisa": "44",
+        "url": "https://i.imgur.com/lf3BSPr.png",
+        "gerente": "sem_gerente"
+    },
+    "38": {
+        "nome": "Jaylen Brown",
+        "time": "Boston Celtics",
+        "camisa": "7",
+        "url": "https://i.imgur.com/A0tiaTl.png",
+        "gerente": "sem_gerente"
+    },
+    "39": {
+        "nome": "Al Horford",
+        "time": "Boston Celtics",
+        "camisa": "42",
+        "url": "https://i.imgur.com/o9tF841.png",
+        "gerente": "sem_gerente"
+    },
+    "40": {
+        "nome": "Marcus Smart",
+        "time": "Boston Celtics",
+        "camisa": "36",
+        "url": "https://i.imgur.com/KdC3I6k.png",
+        "gerente": "sem_gerente"
+    },
+    "41": {
+        "nome": "Devin Booker",
+        "time": "Phoenix Suns",
+        "camisa": "1",
+        "url": "https://i.imgur.com/M9vMCLU.png",
+        "gerente": "sem_gerente"
+    },
+    "42": {
+        "nome": "Chris Paul ",
+        "time": "Phoenix Suns",
+        "camisa": "3",
+        "url": "https://i.imgur.com/ASJ3Meh.png",
+        "gerente": "sem_gerente"
+    },
+    "43": {
+        "nome": "Deandre Ayton",
+        "time": "Phoenix Suns",
+        "camisa": "22",
+        "url": "https://i.imgur.com/k91AE6G.png",
+        "gerente": "sem_gerente"
+    },
+    "44": {
+        "nome": "Joe Crowder",
+        "time": "Phoenix Suns",
+        "camisa": "99",
+        "url": "https://i.imgur.com/82PQRrd.png",
+        "gerente": "sem_gerente"
+    },
+    "45": {
+        "nome": "Cameron Johnson",
+        "time": "Phoenix Suns",
+        "camisa": "23",
+        "url": "https://i.imgur.com/rK0JuOL.png",
+        "gerente": "sem_gerente"
+    },
+    "46": {
+        "nome": "Tobias Harris",
+        "time": "Philadelphia 76ers",
+        "camisa": "12",
+        "url": "https://i.imgur.com/3FHNdCg.png",
+        "gerente": "sem_gerente"
+    },
+    "47": {
+        "nome": "Joel Embiid",
+        "time": "Philadelphia 76ers",
+        "camisa": "21",
+        "url": "https://i.imgur.com/CB0dcsY.png",
+        "gerente": "sem_gerente"
+    },
+    "48": {
+        "nome": "James Harden",
+        "time": "Philadelphia 76ers",
+        "camisa": "1",
+        "url": "https://i.imgur.com/aAPTwUV.png",
+        "gerente": "sem_gerente"
+    },
+    "49": {
+        "nome": "Tyrese Maxey",
+        "time": "Philadelphia 76ers",
+        "camisa": "0",
+        "url": "https://i.imgur.com/Vcg0bws.png",
+        "gerente": "sem_gerente"
+    },
+    "50": {
+        "nome": "Danny Green",
+        "time": "Philadelphia 76ers",
+        "camisa": "14",
+        "url": "https://i.imgur.com/XLRPdU5.png",
+        "gerente": "sem_gerente"
+    },
+    "51": {
+        "nome": "Anthony Edwards",
+        "time": "Minnesota Timberwolves",
+        "camisa": "1",
+        "url": "https://i.imgur.com/YXvocu7.png",
+        "gerente": "sem_gerente"
+    },
+    "52": {
+        "nome": "Karl-Anthony Towns",
+        "time": "Minnesota Timberwolves",
+        "camisa": "32",
+        "url": "https://i.imgur.com/DFBkKzW.png",
+        "gerente": "sem_gerente"
+    },
+    "53": {
+        "nome": "Patrick Beverley",
+        "time": "Minnesota Timberwolves",
+        "camisa": "22",
+        "url": "https://i.imgur.com/r0Q1jQC.png",
+        "gerente": "sem_gerente"
+    },
+    "54": {
+        "nome": "D. Angelo Russell",
+        "time": "Minnesota Timberwolves",
+        "camisa": "0",
+        "url": "https://i.imgur.com/W1ZwyDw.png",
+        "gerente": "sem_gerente"
+    },
+    "55": {
+        "nome": "Jarred Vanderbilt",
+        "time": "Minnesota Timberwolves",
+        "camisa": "8",
+        "url": "https://i.imgur.com/639nUjO.png",
+        "gerente": "sem_gerente"
+    },
+    "56": {
+        "nome": "Kevin Durant",
+        "time": "Brooklyn Nets",
+        "camisa": "7",
+        "url": "https://i.imgur.com/ITh7XJ0.png",
+        "gerente": "sem_gerente"
+    },
+    "57": {
+        "nome": "Kyrie Irving",
+        "time": "Brooklyn Nets",
+        "camisa": "11",
+        "url": "https://i.imgur.com/tS8HCNY.png",
+        "gerente": "sem_gerente"
+    },
+    "58": {
+        "nome": "Seth Curry",
+        "time": "Brooklyn Nets",
+        "camisa": "30",
+        "url": "https://i.imgur.com/arlHIvE.png",
+        "gerente": "sem_gerente"
+    },
+    "59": {
+        "nome": "Bruce Brown",
+        "time": "Brooklyn Nets",
+        "camisa": "1",
+        "url": "https://i.imgur.com/iarCeRN.png",
+        "gerente": "sem_gerente"
+    },
+    "60": {
+        "nome": "Nicolas Claxton",
+        "time": "Brooklyn Nets",
+        "camisa": "33",
+        "url": "https://i.imgur.com/r0USKRZ.png",
+        "gerente": "sem_gerente"
+    },
+    "61": {
+        "nome": "Donovan Mitchell",
+        "time": "Utah Jazz",
+        "camisa": "45",
+        "url": "https://i.imgur.com/KmbNJuN.png",
+        "gerente": "sem_gerente"
+    },
+    "62": {
+        "nome": "Rudy Gobert",
+        "time": "Utah Jazz",
+        "camisa": "27",
+        "url": "https://i.imgur.com/UwUtnJu.png",
+        "gerente": "sem_gerente"
+    },
+    "63": {
+        "nome": "Jordan Clarkson",
+        "time": "Utah Jazz",
+        "camisa": "0",
+        "url": "https://i.imgur.com/s1kZPdb.png",
+        "gerente": "sem_gerente"
+    },
+    "64": {
+        "nome": "Bojan Bogdanovic",
+        "time": "Utah Jazz",
+        "camisa": "44",
+        "url": "https://i.imgur.com/9t0LdaC.png",
+        "gerente": "sem_gerente"
+    },
+    "65": {
+        "nome": "Mike Conley Jr",
+        "time": "Utah Jazz",
+        "camisa": "11",
+        "url": "https://i.imgur.com/SZw5N4F.png",
+        "gerente": "sem_gerente"
+    },
+    "66": {
+        "nome": "Luka Doncic",
+        "time": "Dallas Mavericks",
+        "camisa": "77",
+        "url": "https://i.imgur.com/OSNxEpW.png",
+        "gerente": "sem_gerente"
+    },
+    "67": {
+        "nome": "Jalen Brunson",
+        "time": "Dallas Mavericks",
+        "camisa": "13",
+        "url": "https://i.imgur.com/X8tS707.png",
+        "gerente": "sem_gerente"
+    },
+    "68": {
+        "nome": "Spencer Dinwiddie",
+        "time": "Dallas Mavericks",
+        "camisa": "26",
+        "url": "https://i.imgur.com/5VSVoYp.png",
+        "gerente": "sem_gerente"
+    },
+    "69": {
+        "nome": "Boban Marjanovic",
+        "time": "Dallas Mavericks",
+        "camisa": "51",
+        "url": "https://i.imgur.com/gVVOBTm.png",
+        "gerente": "sem_gerente"
+    },
+    "70": {
+        "nome": "Reggie Bullock",
+        "time": "Dallas Mavericks",
+        "camisa": "25",
+        "url": "https://i.imgur.com/nvdfji8.png",
+        "gerente": "sem_gerente"
+    },
+    "71": {
+        "nome": "Nikola Jokic",
+        "time": "Denver Nuggets",
+        "camisa": "15",
+        "url": "https://i.imgur.com/5fC6QMB.png",
+        "gerente": "sem_gerente"
+    },
+    "72": {
+        "nome": "Jamal Murray",
+        "time": "Denver Nuggets",
+        "camisa": "27",
+        "url": "https://i.imgur.com/xRy9sLV.png",
+        "gerente": "sem_gerente"
+    },
+    "73": {
+        "nome": "Aaron Gordon",
+        "time": "Denver Nuggets",
+        "camisa": "50",
+        "url": "https://i.imgur.com/MDlr2es.png",
+        "gerente": "sem_gerente"
+    },
+    "74": {
+        "nome": "Michael Porter Jr",
+        "time": "Denver Nuggets",
+        "camisa": "1",
+        "url": "https://i.imgur.com/xSewUdL.png",
+        "gerente": "sem_gerente"
+    },
+    "75": {
+        "nome": "Bones Hyland",
+        "time": "Denver Nuggets",
+        "camisa": "3",
+        "url": "https://i.imgur.com/IIQ7p85.png",
+        "gerente": "sem_gerente"
+    },
+    "76": {
+        "nome": "Zion Williamson",
+        "time": "New Orleans Pelicans",
+        "camisa": "1",
+        "url": "https://i.imgur.com/RN9oL0U.png",
+        "gerente": "sem_gerente"
+    },
+    "77": {
+        "nome": "Jose Alvarado",
+        "time": "New Orleans Pelicans",
+        "camisa": "15",
+        "url": "https://i.imgur.com/OGrz8pA.png",
+        "gerente": "sem_gerente"
+    },
+    "78": {
+        "nome": "Brandon Ingram",
+        "time": "New Orleans Pelicans",
+        "camisa": "14",
+        "url": "https://i.imgur.com/jZFWXNp.png",
+        "gerente": "sem_gerente"
+    },
+    "79": {
+        "nome": "CJ McCollum",
+        "time": "New Orleans Pelicans",
+        "camisa": "3",
+        "url": "https://i.imgur.com/73KuELW.png",
+        "gerente": "sem_gerente"
+    },
+    "80": {
+        "nome": "Jonas Valanciunas",
+        "time": "New Orleans Pelicans",
+        "camisa": "17",
+        "url": "https://i.imgur.com/FElRkNX.png",
+        "gerente": "sem_gerente"
+    }
+}
