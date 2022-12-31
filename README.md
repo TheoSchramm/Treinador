@@ -6,18 +6,18 @@
  Caso você queira replicar o bot, terá de adicionar um settings.py no diretório, contendo a declaração da Token do bot e seu prefixo.
 </div> 
 
-# 🏀 Treinador 
+# __🏀 Treinador__
 - Treinador é um bot para o Discord feito em Python, com a principal função de criar um ambiente saúdavel para os amantes do basquete.<br><br>
 A cada hora você pode conseguir 10 cartinhas de jogadores aleátorios podendo escolher apenas 1 para entrar na sua coleção a cada 3 horas, portanto, escolha bem! E seja rápido, pois as outras pessoas também poderão pegar as suas figurinhas caso você não reaja a tempo!
 
-# 📷 Imagens
+# __📷 Imagens__
 ![](/img_exemplo_1.png?raw=true "Exemplo")<br>
 ![](/img_exemplo_2.png?raw=true "Exemplo")
 
-# ⛹️ Elenco atual
+# __⛹️ Elenco atual__
 - [Clique aqui!](https://imgur.com/a/oNBRYxZ)
 
-# 🤖 Comandos disponívels
+# __🤖 Comandos disponívels__
 - Summon:<br>
   · Use **$ba** para revelar 1 jogador de basquete aleatório.<br>
   · Use **$mu** para ver se você pode contratar no momento.<br>
@@ -31,7 +31,7 @@ A cada hora você pode conseguir 10 cartinhas de jogadores aleátorios podendo e
   · Use **$pix** @Alguém <quantia> para pagar outro gerente.<br>
   · Use **ajuda** para ver esta mensagem novamente.<br>
   
- # 📝 Falta terminar
+ # __📝 Falta terminar__
  - Ranking baseado em likes nos jogadores
  - Loja (Liberar upgrades para o perfil)
  - Poder vender figurinhas (Preço baseado no ranking da figurinha)
