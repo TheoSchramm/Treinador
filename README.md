@@ -1,5 +1,5 @@
 <h1 align="center">
-⚠️ Projeto em hiato indeterminado ⚠️
+🚧 Projeto em hiato indeterminado 🚧
 </h1>
 
 <div align="center">
