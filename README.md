@@ -1,5 +1,6 @@
 <h1 align="center">
-🚧 Projeto em hiato indeterminado 🚧
+🚧 Projeto em hiato indeterminado 🚧 <br>
+ <sub> Talvez as coisas tenham mudado e esse código parado de funcionar, cuidado! </sub>
 </h1>
 
 <div align="center">
@@ -15,7 +16,7 @@ A cada hora você pode abrir 10 cartinhas de jogadores aleátorios podendo escol
 ![](/img_exemplo_2.png?raw=true "Exemplo")
 
 # __📌 Dependências__
-1. [Python]()
+1. [Python](https://www.python.org/downloads/)
 2. Bibliotecas discord.py & discord.ext.commands
 
 # __⛹️ Elenco atual__
