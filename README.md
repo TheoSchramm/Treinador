@@ -14,6 +14,10 @@ A cada hora você pode abrir 10 cartinhas de jogadores aleátorios podendo escol
 ![](/img_exemplo_1.png?raw=true "Exemplo")<br>
 ![](/img_exemplo_2.png?raw=true "Exemplo")
 
+# __📌 Dependências__
+1. [Python]()
+2. Bibliotecas discord.py & discord.ext.commands
+
 # __⛹️ Elenco atual__
 - [Clique aqui!](https://imgur.com/a/oNBRYxZ)
 
