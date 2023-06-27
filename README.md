@@ -8,8 +8,9 @@
 </div> 
 
 # __🏀 Treinador__
-- Treinador é um bot para o Discord feito em Python, com a principal função de criar um ambiente saúdavel para os amantes do basquete.<br><br>
-A cada hora você pode abrir 10 cartinhas de jogadores aleátorios podendo escolher apenas 1 para entrar na sua coleção a cada 3 horas, portanto, escolha bem! E seja rápido, pois as outras pessoas também poderão pegar as suas figurinhas caso você não reaja a tempo!
+- Os usuários podem rolar personagens aleatórios, adicioná-los à sua coleção virtual, apostar, batalhar e trocar com outros membros. Ele oferece diversão e um ambiente saúdavel para os amantes do esporte.<br><br>
+
+A cada hora, você pode abrir 10 cartas de jogadores aleatórios, mas só pode escolher 1 para adicionar à sua coleção a cada 3 horas. Portanto, escolha cuidadosamente e seja rápido, pois outras pessoas também podem pegar as suas cartas se você não reagir a tempo!
 
 # __📷 Imagens__
 ![](/img_exemplo_1.png?raw=true "Exemplo")<br>
