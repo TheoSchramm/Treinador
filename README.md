@@ -37,7 +37,7 @@ A cada hora, você pode abrir 10 cartas de jogadores aleatórios, mas só pode e
   · Use **$pix** @Alguém <quantia> para pagar outro usuário.<br>
   · Use **ajuda** para ver esta mensagem novamente.<br>
   
- # __📝 Falta terminar__
+ # __📝 ToDo List__
  - Ranking baseado em likes nos jogadores
  - Loja (Liberar upgrades para o perfil)
  - Poder vender figurinhas (Preço baseado no ranking da figurinha)
